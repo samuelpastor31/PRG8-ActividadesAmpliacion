@@ -7,10 +7,9 @@ import java.util.Scanner;
 public class Actividad9 {
 
     public static void main(String[] args) {
-        // crear el objeto HashMap
+
         Map <String, String> diccionario = new HashMap<String, String>();
 
-        // agregar palabras y sus traducciones al diccionario
         diccionario.put("perro", "dog");
         diccionario.put("gato", "cat");
         diccionario.put("casa", "house");
